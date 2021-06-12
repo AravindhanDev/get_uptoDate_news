@@ -60,21 +60,23 @@ h4 {
 
 @media all and (max-width: 985px) {
     h2 {
-        font-size: 4.2rem;
+        font-size: 4.6rem;
     }
     p {
         margin-left: 4rem;
         text-align: justify;
-        padding: 0 2rem 2.2rem 0;
+        padding: 0 2rem 4rem 0;
     }
     input {
         font-family: 'Fira Mono', monospace;
-        height: 3rem;
+        height: 4.5rem;
+        font-size: 2.5rem;
+        margin-bottom: 5rem;
     }
     button {
-        padding-top: 1rem;
         height: 2rem;
-        font-size: 1.7rem;
+        font-size: 3rem;
+        padding-left: 1rem;
     }
 }
 
@@ -90,11 +92,10 @@ h4 {
     input {
         font-family: 'Fira Mono', monospace;
         height: 3rem;
-        font-size: 1.2rem;
     }
     button {
         padding-top: 1rem;
-        height: 2.6rem;
-        font-size: 1.9rem;
+        height: 3.1rem;
+        font-size: 2.1rem;
     }
 }
