@@ -17,18 +17,17 @@ p {
     font-size: 1.2rem;
     margin-left: 15rem;
     text-align: justify;
-    padding: 0 5rem 2.2rem 0;
+    padding: 0 5rem 1rem 0;
 }
 
 input {
     font-family: 'Fira Mono', monospace;
-    height: 3rem;
+    height: 2.8rem;
     outline: none;
     border: none;
-    border-radius: 0.1rem;
-    border-bottom: 2px solid #a6a9b6;
+    border-bottom: 2px solid #fff;
     margin-bottom: 3rem;
-    font-size: 2.3rem !important;
+    font-size: 1.2rem;
     background-color: #1b1a17;
 }
 
@@ -38,7 +37,7 @@ input::placeholder {
 
 input:focus {
     color: #fff;
-    border: 2px solid #a6a9b6;
+    border: 1px solid #a6a9b6;
 }
 
 button {
@@ -63,9 +62,9 @@ h4 {
         font-size: 4.2rem;
     }
     p {
-        margin-left: 4rem;
+        margin-left: 6.5rem;
         text-align: justify;
-        padding: 0 2rem 2.2rem 0;
+        padding: 0 4rem 1rem 0;
     }
     input {
         font-family: 'Fira Mono', monospace;
@@ -85,7 +84,7 @@ h4 {
     p {
         margin-left: 0.1rem;
         text-align: justify;
-        padding: 0 4rem 2.2rem 0;
+        padding: 0 4rem 1rem 0;
     }
     input {
         font-family: 'Fira Mono', monospace;
